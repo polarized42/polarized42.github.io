@@ -6203,11 +6203,11 @@ button.close {
 /*# sourceMappingURL=bootstrap.css.map */
 
 .relative{position:absolute; width:600px;}
-.absolute-text{position:absolute; bottom:0; font-size:30px; font-family: 'Press Start 2P', cursive; background:rgba(42, 255, 160,0.6);
+.absolute-text{position:relative; bottom:0; font-size:30px; font-family: 'Press Start 2P', cursive; background:rgba(42, 255, 160,0.6);
 padding:30px 40px; width:200%; text-align:center;}
 .absolute-text a{font-size:40px; color:#b92b27;}
 
-.regular-text{position:absolute; bottom:0; font-size:17px; font-family: 'Press Start 2P', cursive; background:rgba(42, 255, 160,0.6);
+.regular-text{position:relative; bottom:0; font-size:17px; font-family: 'Press Start 2P', cursive; background:rgba(42, 255, 160,0.6);
 padding:30px 40px; width:200%; text-align:center;}
 .absolute-text a{font-size:40px; color:#b92b27;}
 
